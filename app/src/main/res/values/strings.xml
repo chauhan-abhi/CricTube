@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CricTube</string>
+    <string name="action_about">About me</string>
+    <string name="action_color_picker">Color picker</string>
+    <string name="favorite_watched_tab">Recently watched</string>
+    <string name="recently_watched_tab">Recently watched</string>
+    <string name="search_tab">Search YouTube</string>
+    <string name="playlists_tab">Playlists</string>
+
+    <string name="search_hint">Search YouTube</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="clear_list">Clear recently played list</string>
+
+    <string name="email">vanste25@gmail.com</string>
+    <string name="date">March 2016.</string>
+    <string name="myName">Stevan Medic</string>
+
+    <string name="number_of_videos">Number of videos:</string>
+    <string name="status">Status:</string>
+    <string name="all_permissions_request">Request permissions</string>
+    <string name="ok">ok</string>
+    <string name="choose_colors">Choose background and text color</string>
+    <string name="cancel">cancel</string>
+    <string name="failed_playback">Playback failed!</string>
+</resources>

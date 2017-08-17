@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-oauth-client-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="481c5c2eb066671ce16088987101f24a14534f3b">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.21.0_ece59d3cbca62713949cfee1e02aed903ffae8a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bcad36c93d6dab1e21ed47f38993293ce3c89ed">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-1.21.0_a3c80800cbf62fff34df6ad5211d39d80487138b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/c1450a4a527f7991f5e3c45d798163464bd8ba8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_39e163ff3ace141f979124a818390f0964f62ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/b0905c506310d7e6e07806fc5c585635c0d775eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_88b9036e86d69ff6b05c92bd8f00306e35496086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/c9184e7320758a30bf7e7529c278f7f63da14e98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_bb4cf09954f5224f4e05d197c2930ea2384ed43a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-2.1.3_0224b4c6eb1e1296c27424ac2b5cea85185d9c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-oauth-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="481c5c2eb066671ce16088987101f24a14534f3b">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-oauth-client-1.21.0_ece59d3cbca62713949cfee1e02aed903ffae8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/fe2bc2284b63d637aa50fd94cb424644666dd7d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_5ad3d30c78c6458eab0bf80fc9c9d72c1b475c42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-client-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bcad36c93d6dab1e21ed47f38993293ce3c89ed">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-api-client-1.21.0_a3c80800cbf62fff34df6ad5211d39d80487138b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_0224b4c6eb1e1296c27424ac2b5cea85185d9c7c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-jackson2-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14786f5d05b04365f0c578d0e810dd555f07f295">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-jackson2-1.21.0_c7d267c372dd1c4c26659d7c9d05876984067303/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-jackson2-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14786f5d05b04365f0c578d0e810dd555f07f295">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.21.0_c7d267c372dd1c4c26659d7c9d05876984067303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/4563d510d922fd88bb3e0ca07e8a2120bd064045/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_a9cebe1c7b1d3ae7cda71debc0b705989dd1e288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/63578fc192ae71a0a6a58c6b55da859fbdf72805/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_2945001387d97637cb7a54c749192f18fabdd5b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/aa34256b42cd7df550f4fdcd8a48e0c6c9994835/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_95f06b252a75315a8a8e157886c5b327fa81de2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/eabe9b60b2c874bad590165a8e4238432bcdd3a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_044d8b35a6fe424046c018894ba5607613953db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/4ef2bad299c91e95198a5940e57c67810391d372/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_1e2707b0bbe080a04aced3c1e53b12d995f81d30.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cc8f84125792a9c6c178c40ee8c9c6a539f4352/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/1bfb2e6a86ba2ed33715d7731f6c04b4d2787538/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_eb7ab641f28acaefc3c5bf78c46a931c04d8cb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b055a74973498fc2038f5a20328cb039ca8c599f">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/com.github.HaarigerHarald-android-youtubeExtractor-master-SNAPSHOT_984f9b4cefb8e431f8aecde95faff3bf7fd87d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/e69d08dd35f356378d04566f58b234aca8f09b26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_fc2df56712c1bfa77d0728c80c0d51b633903ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/882875891487b9245c3b456f1e67508d60a929c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_af3d278cf8bf10857156bac2f0d43bf94db5d651.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-android-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bbb3e20e50c801145e37600650c9e1202e44e04">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.21.0_c720de9c94c9d05c3bd2f6e1d6fe3ed19c6d541b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/0a6fdc4dc18042bcdea8fc313145d2a9101786b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_d526918f0e31c7aadbe320809aa7c57aa54df305.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cc5f6d041134f20b6284c6f6571460e48c8fba">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82434c57db69ad245abcd7045d358ef0f507c1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b055a74973498fc2038f5a20328cb039ca8c599f">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.HaarigerHarald-android-youtubeExtractor-master-SNAPSHOT_984f9b4cefb8e431f8aecde95faff3bf7fd87d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-android-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bbb3e20e50c801145e37600650c9e1202e44e04">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.21.0_c720de9c94c9d05c3bd2f6e1d6fe3ed19c6d541b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/f434b02ca3171feb4ac1443517fc6f865e554029/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="892f97117346e276046ba5c7a4ccfe81a608a37d">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_c6fdfe4dc6be6183f4b8f4dca600b88aff1d57df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_37855205891f01d893d05e8d5a41233bb25c1528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_c43a51c879c4bca4f2cb231f93a4f579af6b6e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/2c9c3186fb3c9343163de19a32b7d0d4c44e545d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14f18b889b5fc9a6fb3402bf1e831795c1084536">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_f02f5f450e2fc0d3db1a68411254e2ec30818403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/ff485077e04575a1cc846b9e7781baecb4035315/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_b0eeb4da6a6341db2d3645645eb929b2af330a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-services-youtube-v3-rev160-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb8d0f398e95b0d4fba9a7f61a426505b7edc42a">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-api-services-youtube-v3-rev160-1.21.0_1f4a1dbb09c31b9ffc93fc006b52e14699960f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_99589e84ed50f25a8445f4dff6c77fda6ae8b039.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-services-youtube-v3-rev160-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb8d0f398e95b0d4fba9a7f61a426505b7edc42a">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-services-youtube-v3-rev160-1.21.0_1f4a1dbb09c31b9ffc93fc006b52e14699960f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/206711ca88d3f9588acac7c2686b4ee76879870e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_f3e99f3c2c66e653edccd45fa7707e8d98a36beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.gradle/caches/modules-2/files-2.1/com.facebook.network.connectionclass/connectionclass/1.0.1/8d5e86c680119bfa1d7e1a365510b56764cb61b0/connectionclass-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d5e86c680119bfa1d7e1a365510b56764cb61b0">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/connectionclass-1.0.1_66b6d979622e975036cb44c2cb1db40e4cd1210f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/3d844214c5ff03a918f55811ba60f6c4d9f54887/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_07128d818c51bdda13de92494b4e31400d3034e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/b50908fe28bf12e7dca66bb38a24b2320277d3e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_f901bcef4552987eea52bfcb3c7f85de89bba5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/80e57108606319928c4cf024a4e0df0160970784/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_58415d2a5bbcee248e1d0df21c105d879a9d8d66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8586fd6b4a11cd146d611cfe9c2cb43bddd62f4f">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.21.0_ac6d40828e26bef0cf318eb93ef1c9bd443356b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_d61318d1f33d46082e401d73882b454b9c4be6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-client-android-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5e52620c21137aacffc399a20cebc85adec006">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.21.0_4f1e676ffc62ed4a33e3df8b4d2063cc22e6881b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_37855205891f01d893d05e8d5a41233bb25c1528/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/.android/build-cache/4eb36d0be70ae9774ea66d9dc8f86288543b0af7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/classes_fe5c4b4b597cd908ac360cbf6303fa73b169e025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-http-client-1.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8586fd6b4a11cd146d611cfe9c2cb43bddd62f4f">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/pre-dexed/debug/google-http-client-1.21.0_ac6d40828e26bef0cf318eb93ef1c9bd443356b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_d61318d1f33d46082e401d73882b454b9c4be6d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/libs/google-api-client-android-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5e52620c21137aacffc399a20cebc85adec006">
+        <dex dex="/home/abhi/Downloads/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-android-1.21.0_4f1e676ffc62ed4a33e3df8b4d2063cc22e6881b/classes.dex" />
+    </item>
+
+</items>

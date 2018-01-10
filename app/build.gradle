@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.smedic.tubtub"
         minSdkVersion 16
@@ -18,7 +18,7 @@ android {
                     def file = output.outputFile
                     def appId = android.defaultConfig.applicationId
                     def fileName = appId + "-" + variant.buildType.name + "-" + defaultConfig.versionName + ".apk"
-                    output.outputFile = new File(file.parent, fileName)
+                    output.outputFileName = new File(file.parent, fileName)
                 }
             }
         }
@@ -32,7 +32,7 @@ android {
                         def file = output.outputFile
                         def appId = android.defaultConfig.applicationId
                         def fileName = appId + "-" + variant.buildType.name +".apk"
-                        output.outputFile = new File(file.parent, fileName)
+                        output.outputFileName = new File(file.parent, fileName)
                     }
                 }
             }

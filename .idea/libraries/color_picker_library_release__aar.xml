@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="color_picker_library-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/color_picker_library-release.aar/eb17fa576b2383c2102d58074c4dd611/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/color_picker_library-release.aar/eb17fa576b2383c2102d58074c4dd611/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
